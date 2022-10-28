@@ -24,6 +24,7 @@
 - [AungKanPhyo] (https://github.com/AungKanPhyo)
 - [MEGA0HM] (https://github.com/M3GA0HM)
 - [Richard Akintola] (https://github.com/AkintolaRichard)
+- [shulamy]          (https://github.com/shulamy1)
 - [Melissa Layser] (https://github.com/Laserbeam22)
 - [Rajat](https://github.com/rajatkumar2205)
 - [Kouam Franck](https://github.com/kofra-jg)
